@@ -42,6 +42,10 @@ ENV/
 env.bak/
 venv.bak/
 .virtualenv/
+.bat
+.ps1
+.exe
+.cfg
 
 # VS Code
 .vscode/
